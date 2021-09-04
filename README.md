@@ -16,7 +16,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]][https://bivas-biswas.github.io/drumkit]
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -72,3 +72,5 @@ Contributions are what make the open source community such an amazing place to l
 [twitter-shield]:https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
 [twitter-url]:https://twitter.com/bivasbiswas99
 
+<!-- file source -->
+[product-screenshot]:image/drumkit_gif.gif
