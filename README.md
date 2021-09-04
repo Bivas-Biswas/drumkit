@@ -7,6 +7,7 @@
 # Table of Contents
   - [Contents](#table-of-contents)
     - [About The Project](#about-the-project)
+        - [How it work ?](#how-it-work)
     - [Built With](#built-with)
     - [Contributing](#contributing)
     - [License](#license)
@@ -17,7 +18,7 @@
 ## About The Project
 <a href="https://bivas-biswas.github.io/drumkit"><p align="center"><img src="image/drumkit.gif"></p></a>
 In my learning phase to see how much I learned yet I created this project, inspired by JavaScript30. It is a simple **online drumkit music player**.
-#### How it work ?
+### How it work
 On Specific keypress, make differect sound with thier respective drum components.
 
 **<kbd>A</kbd> = CLAP**
