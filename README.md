@@ -15,11 +15,28 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<a href="https://bivas-biswas.github.io/drumkit"><p align="center"><img src="image/drumkit.gif"></p></a>
+In my learning phase to see how much I learned yet I created this project, inspired by JavaScript30. It is a simple **online drumkit music player**.
+#### How it work ?
+On Specific keypress, make differect sound with thier respective drum components.
 
-[![Product Name Screen Shot][product-screenshot]][https://bivas-biswas.github.io/drumkit]
+**<kbd>A</kbd> = CLAP**
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+**<kbd>S</kbd> = HIHAT**
 
+**<kbd>D</kbd> = KICK**
+
+**<kbd>F</kbd> = OPENHAT**
+
+**<kbd>G</kbd> = BOOM**
+
+**<kbd>H</kbd> = RIDE**
+
+**<kbd>J</kbd> = SNARE**
+
+**<kbd>K</kbd> = TOM**
+
+**<kbd>L</kbd> = TINE**
 
 ## Built With
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -71,6 +88,3 @@ Contributions are what make the open source community such an amazing place to l
 
 [twitter-shield]:https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
 [twitter-url]:https://twitter.com/bivasbiswas99
-
-<!-- file source -->
-[product-screenshot]:image/drumkit_gif.gif
